@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boludcoder
 - 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning Robotics and t
+- 🌱 I’m currently learning Robotics and AI
 - 💞️ I’m looking to collaborate on Robotics and AI Projects
 - 📫 you can reach me at bellobolu16@gmail.com
 
